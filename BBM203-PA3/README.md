@@ -1,4 +1,4 @@
-# 🏛️ Artifact Managment System
+# 🏛️ Artifact Management System
 
 A sophisticated data management and assignment simulation developed for **Hacettepe University BBM203** (Data Structures). The system handles the cataloging of valuable artifacts and coordinates their distribution among specialized researchers using self-balancing search trees.
 
