@@ -8,7 +8,7 @@ This repository contains advanced C++ projects developed during the **BBM 203** 
 | :--- | :--- | :--- |
 | **[Rail Marshal](./BBM203-PA1)** | A train classification and logistics simulation. | Doubly Linked Lists, Stacks |
 | **[QuakeAssist](./BBM203-PA2)** | A disaster relief coordination and mission tracking system. | Queues (FIFO), Stacks (LIFO) |
-| **[Artifact Stewardship](./BBM203-PA3)** | A high-performance artifact cataloging and assignment system. | AVL Trees, Red-Black Trees |
+| **[Artifact Management](./BBM203-PA3)** | A high-performance artifact cataloging and assignment system. | AVL Trees, Red-Black Trees |
 
 ## 🛠 Technical Competencies
 * **Memory Management:** Extensive experience with manual memory allocation, pointers, and preventing memory leaks using RAII principles in C++.
